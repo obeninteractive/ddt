@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ateliers Data on Dataplon</title>
+    <link>https://dataplon.com/cours/</link>
+    <description>Recent content in Ateliers Data on Dataplon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 15 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dataplon.com/cours/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Read The docs</title>
+      <link>https://dataplon.com/cours/readthedocs/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dataplon.com/cours/readthedocs/</guid>
+      <description>Installation
+Here goes installation steps
+Configuration All about configuration
+Made by dataplon.</description>
+    </item>
+    
+  </channel>
+</rss>

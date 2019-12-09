@@ -1,0 +1,8 @@
+baseURL = "https://dataplon.com"
+languageCode = "fr-fr"
+title = "Dataplon"
+theme="dataplon-landingpage"
+
+# Code higlighting settings
+pygmentsCodefences = true
+pygmentsStyle = "vs"
